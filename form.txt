@@ -1,0 +1,48 @@
+ <form id="registration_form" action="show_data.html" method="get" >
+   
+        <label>
+        First Name
+    </label>
+    <input type="text" placeholder="First Name" name="first_name">
+    
+    <label>
+        First Name
+    </label>
+    <input type="text" placeholder="First Name" name="first_name">
+    
+    <label>
+        First Name
+    </label>
+    <input type="text" placeholder="First Name" name="first_name">
+    
+    <label>
+        First Name
+    </label>
+    <input type="text" placeholder="First Name" name="first_name">
+    
+    <label>
+        First Name
+    </label>
+    <input type="text" placeholder="First Name" name="first_name">
+    
+    <label>
+        First Name
+    </label>
+    <input type="text" placeholder="First Name" name="first_name">
+    
+    <label>
+        First Name
+    </label>
+    <input type="text" placeholder="First Name" name="first_name">
+    
+    <label>
+        First Name
+    </label>
+    <input type="text" placeholder="First Name" name="first_name">
+    
+
+   
+       <button value="submit">
+       Submit    
+    </button>
+</form>
