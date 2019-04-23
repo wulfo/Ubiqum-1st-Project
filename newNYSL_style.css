@@ -73,6 +73,7 @@ nav {
     /* porque funciona con id y no con class???? */
     width: 150px;
     height: 150px;
+    margin-top: 5px;
 }
 
 .whole_page {
@@ -289,7 +290,8 @@ p.light {
 table {
     border: 1px solid;
     width: 100%;
-    margin-bottom: 20px
+    margin-bottom: 20px;
+    text-align: center;
 }
 
 th {
